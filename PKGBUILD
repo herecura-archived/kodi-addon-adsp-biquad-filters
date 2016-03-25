@@ -2,8 +2,8 @@
 # Maintainer: BlackEagle <ike.devolder@gmail.com>>
 
 pkgname=kodi-addon-adsp-biquad-filters
-_commit=621866d
-pkgver=20160302.621866d
+_commit=77ea50b
+pkgver=20160325.77ea50b
 pkgrel=1
 pkgdesc=""
 arch=('i686' 'x86_64')
